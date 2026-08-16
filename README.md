@@ -17,7 +17,7 @@ Status.............: Learning • Building • Improving
 
 Sou desenvolvedor **Back-end** com foco no ecossistema **.NET**, apaixonado por tecnologia e pela construção de soluções que **resolvem problemas com qualidade e desempenho**.
 
-Ao longo da minha formação e de projetos pessoais, desenvolvi aplicações utilizando **C#, ASP.NET Core, Entity Framework Core, Blazor, SQL Server e MongoDB**, aplicando conceitos de **Programação Orientada a Objetos, Arquitetura em Camadas, APIs REST, persistência de dados** e boas práticas de desenvolvimento.
+Ao longo da minha formação e de projetos pessoais, desenvolvi aplicações utilizando **C#, ASP.NET Core, Entity Framework Core, Blazor, SQL Server e MongoDB, aplicando conceitos de Programação Orientada a Objetos, arquitetura em camadas, APIs REST, autenticação com JWT, persistência de dados** e boas práticas de desenvolvimento.
 
 Acredito que escrever código vai além de fazer uma funcionalidade funcionar. Busco desenvolver soluções limpas, organizadas e fáceis de manter, sempre valorizando aprendizado contínuo, colaboração e evolução técnica.
 
